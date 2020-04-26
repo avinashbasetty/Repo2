@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 446B-3447
+
+ Directory of C:\Users\Avinash\Desktop\MyProject
+
+26-04-2020  17:53    <DIR>          .
+26-04-2020  17:53    <DIR>          ..
+26-04-2020  17:53                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  424,681,918,464 bytes free
